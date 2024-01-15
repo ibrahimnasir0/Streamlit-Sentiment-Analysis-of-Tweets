@@ -10,10 +10,10 @@ The project involves creation of a webapp using python scripts, and demostrating
 
 ### Dashboard Snippets
 
-![Histogram](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/histogram.png)
+![Histogram](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/histogram.png)
 
-![Pie Chart](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/piechart.png)
+![Pie Chart](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/piechart.png)
 
-![Tweets Location](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/maptweets.png)
+![Tweets Location](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/maptweets.png)
 
-![Tweet Sentiment Breakdown](https://github.com/singhishita/Interactive-Dashboards-With-Streamlit/blob/master/tweetbreakdown.png)
+![Tweet Sentiment Breakdown](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/tweetbreakdown.png)
