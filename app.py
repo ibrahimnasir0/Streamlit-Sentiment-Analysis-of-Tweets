@@ -60,13 +60,30 @@ if len(choice) > 0:
 st.sidebar.header("Word Cloud")
 word_sentiment = st.sidebar.radio('Display word cloud for which sentiment?', ('positive', 'negative', 'neutral'))
 
+# if not st.sidebar.checkbox("Close", True, key='5'):
+#     st.header('Word cloud for %s sentiment' % (word_sentiment))
+#     df = data[data['airline_sentiment'] == word_sentiment]
+#     words = ' '.join(df['text'])
+#     processed_words = ' '.join([word for word in words.split() if 'http' not in word and word.startswith('@') and word != 'RT'])
+#     wordcloud = WordCloud(stopwords=STOPWORDS, background_color='white', height=600, width=800).generate(processed_words)
+#     plt.imshow(wordcloud)
+#     plt.xticks([])
+#     plt.yticks([])
+#     st.pyplot()
+    
 if not st.sidebar.checkbox("Close", True, key='5'):
     st.header('Word cloud for %s sentiment' % (word_sentiment))
     df = data[data['airline_sentiment'] == word_sentiment]
     words = ' '.join(df['text'])
     processed_words = ' '.join([word for word in words.split() if 'http' not in word and word.startswith('@') and word != 'RT'])
     wordcloud = WordCloud(stopwords=STOPWORDS, background_color='white', height=600, width=800).generate(processed_words)
-    plt.imshow(wordcloud)
-    plt.xticks([])
-    plt.yticks([])
-    st.pyplot()
+    
+    # Use plt.figure() to create a new figure explicitly
+    fig, ax = plt.subplots()
+    ax.imshow(wordcloud)
+    ax.set_xticks([])
+    ax.set_yticks([])
+    
+    # Display the Matplotlib figure using st.pyplot(fig)
+    st.pyplot(fig)
+
