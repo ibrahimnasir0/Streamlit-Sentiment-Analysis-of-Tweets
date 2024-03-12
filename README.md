@@ -1,6 +1,8 @@
 # Interactive-Dashboards-With-Streamlit
 Create Interactive Dashboards With Streamlit in Python - a short **[Coursera]**  (https://www.coursera.org/projects/interactive-dashboards-streamlit-python) project
 
+Click [here](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) to go to my Coursera Project. 
+
 The project involves creation of a webapp using python scripts, and demostrating the data and analyses on the same. The analysis involved is sentiment analysis.
 
 ### Components:-
