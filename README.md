@@ -1,5 +1,6 @@
 # Interactive-Dashboards-With-Streamlit
-Create Interactive Dashboards With Streamlit in Python - a short **[Coursera]**  (https://www.coursera.org/projects/interactive-dashboards-streamlit-python) project
+Create Interactive Dashboards With Streamlit in Python - a short **Coursera** project. 
+[link](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) to course.
 
 Click [here](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) to go to my Coursera Project. 
 
