@@ -17,3 +17,9 @@ The project involves creation of a webapp using python scripts, and demostrating
 ![Tweets Location](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/maptweets.png)
 
 ![Tweet Sentiment Breakdown](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/tweetbreakdown.png)
+
+### Coursera Certificate
+
+![Coursera Certificate](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/Create Interactive Dashboards with Streamlit and Python_page-0001.jpg
+
+
