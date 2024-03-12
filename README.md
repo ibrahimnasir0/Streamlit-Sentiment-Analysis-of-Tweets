@@ -20,6 +20,6 @@ The project involves creation of a webapp using python scripts, and demostrating
 
 ### Coursera Certificate
 
-![Coursera Certificate](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/Create Interactive Dashboards with Streamlit and Python_page-0001.jpg
+![Coursera Certificate](https://github.com/ibrahimnasir0/Streamlit-Sentiment-Analysis-of-Tweets/blob/main/CreateInteractiveDashboardswithStreamlitandPython.jpg)
 
 
